@@ -1,10 +1,13 @@
 Education
 ---------
 Bachelor of Science in Computer Science
-IIUI 
+International Islamic University,Islamabad 
 Expected Graduation:2027
 
 Relevant Coursework:
-- Data Structures and Algorithms
-- Web Development
-- Database Management Systems
+1. Data Structures and Algorithms
+2. Database Management Systems
+3. Computer Network
+4. Object Oriented Programming (C++)
+5. Java 
+6. Python

@@ -11,3 +11,9 @@ Relevant Coursework:
 4. Object Oriented Programming (C++)
 5. Java 
 6. Python
+7. Design and Analysis of Algorithm
+8. Graph Theory
+9. Compiler Construction
+10. Introduction to Software 
+11. Operating System
+12. Information Security
